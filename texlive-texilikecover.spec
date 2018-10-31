@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-texilikecover
 Version:	0.1
-Release:	10
+Release:	11
 Summary:	A cover-page package, like TeXinfo
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/misc/texilikecover.sty
